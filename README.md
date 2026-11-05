@@ -10,13 +10,22 @@
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo & Screenshots
 
-![Gallery](assets/screenshots/01_gallery.png)  
-![Picture view](assets/screenshots/02_picture_view.png)  
-![Video view](assets/screenshots/03_video_view.png)
-![Comparison](assets/screenshots/04_comparison.png)
-![EXIF detail](assets/screenshots/05_exif_detail.png)  
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/659b6eda-c372-43cd-a24d-a1afdc6bd7a6" width="360" controls="controls" style="max-width: 100%;"></video>
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/01_gallery.png" width="220" alt="Gallery" />
+  <img src="assets/screenshots/02_picture_view.png" width="220" alt="Picture view" />
+  <img src="assets/screenshots/03_video_view.png" width="220" alt="Video view" />
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/04_comparison.png" width="220" alt="Comparison" />
+  <img src="assets/screenshots/05_exif_detail.png" width="220" alt="EXIF detail" />
+</p>
 
 ---
 
