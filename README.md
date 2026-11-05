@@ -13,7 +13,7 @@
 ## 📸 Demo & Screenshots
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/659b6eda-c372-43cd-a24d-a1afdc6bd7a6" width="360" controls="controls" style="max-width: 100%;"></video>
+  <video src="assets/demo.mp4" width="360" controls="controls"></video>
 </p>
 
 <p align="center">
