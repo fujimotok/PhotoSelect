@@ -13,7 +13,7 @@
 ## 📸 Demo & Screenshots
 
 <p align="center">
-  <video src="assets/demo.mp4" width="360" controls="controls"></video>
+  <img src="assets/screenshots/demo.gif" width="360" alt="Demo" />
 </p>
 
 <p align="center">
